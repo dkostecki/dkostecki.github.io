@@ -41,67 +41,69 @@ Work experience
   
 Coursework
 ======
-* Northeastern University
+* Northeastern University (Ph.D)
   * Fall 2020
     * CS 7610: Foundation of Distributed Systems
     * CS 8982: Readings
-  * Spring 2020:
+    
+* Northeastern University (M.S.)
+  * Spring 2020
     * CS 5600: Computer Systems
     * CS 5770: Software Vulnerabilities and Security
-  * Fall 2019:
+  * Fall 2019
     * CS 6740: Network Security
     * CS 8982: Readings
-  * Spring 2019:
+  * Spring 2019
     * CS 5800: Algorithms
     * CS 5700: Fundamentals of Computer Networking
-  * Fall 2018:
+  * Fall 2018
     * CS 5100: Foundations of Artificial Intelligence
     * CS 5010: Programming Design Paradigm
     
-* Central Connecticut State University
-  * Spring 2018:
+* Central Connecticut State University (B.S.)
+  * Spring 2018
     * CS 498: Senior Project
     * ART 247: Photography I
     * AST 209: Stellar and Galactic Astronomy
     * CINE 201: The Language of Film
     * ENG 262: Introduction to Drama
-  * Fall 2017:
+  * Fall 2017
     * CS 410: Software Engineering
     * CS 493: Secure Software Systems
     * GSCI 121: The Dynamic Earth
     * MATH 226: Linear Algbra and Probability for Engineers
     * PHYS 126: University Physics II
-  * Spring 2017:
+  * Spring 2017
     * CS 355: Systems Programming
     * CS 385: Computer Architecture
     * CS 462: Artificial Intelligence
     * CS 492: Computer Security
     * TH 253: Script Analysis for Theatre
-  * Fall 2016:
+  * Fall 2016
     * COMM 115: Fundamentals of Communication
     * CS 354: Digital Systems Design
     * CS 416: Web Programming
     * MATH 221: Calculus II
     * PHYS 125: University Physics I
-  * Spring 2016:
+  * Spring 2016
     * ANTH 170: Introduction to Cultural Anthropology
     * CS 153: Computer Science III
     * CS 253: Data and File Structures
     * MATH 218: Discrete Mathematics
     * PHIL 245: Computer Ethics
-  * Fall 2015:
+  * Fall 2015
     * CS 152: Computer Science II
     * CS 254: Computer Organizatin and Assembly Language Programming
     * ENG 220: Shakespeare
     * MATH 221: Calculus II
     * PES 110: Intro to the Study of Peace and War
-  * Spring 2015: 
+  * Spring 2015 
     * ANTH 150: Introduction to Archaeology
     * CS 151: Computer Science I
     * MATH 152: Calculus I
     * PE 144: Fitness and Wellness Ventures
     * PHIL 112: Introduction to Philosophy
-  * Fall 2014:
+  * Fall 2014
     * ENG 110: Introduction to College Writing
     * HIST 100: History and the Digital World
     * PSY 112: Introduction to Psychology
