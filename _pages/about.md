@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-PhD
+Academics
 ======
 I am a Computer Science PhD student advised by Dr. Cristina Nita-Rotaru at the [Network and Distributed Systems Security Lab (NDS2)](https://nds2.ccs.neu.edu/ "NDS2 Lab Homepage") at Northeastern University in Boston, Massachusetts. 
 
