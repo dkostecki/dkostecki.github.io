@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Northeastern University, (Present)
-* B.S. in Computer Science, Central Connecticut State University, 2018
 * M.S. in Computer Science, Northeastern University, 2020
+* B.S. in Computer Science, Central Connecticut State University, 2018
 
 Work experience
 ======
